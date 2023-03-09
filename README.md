@@ -40,6 +40,7 @@
 <code bash>main.exe</code>
 
 <br>
+<br>
 <p>Linux</p>
 <code bash>gcc test.c util.c code.c encode.c menu.c main.c -o main -lm</code>
 <br>
