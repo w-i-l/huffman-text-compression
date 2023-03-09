@@ -1,6 +1,6 @@
 <h1>Huffman compression</h1>
 <h2>An algorithm to compress data using Huffman encode</h2>
-<!-- <img src='https://user-images.githubusercontent.com/65015373/222278005-6ba91817-ec2c-4732-b96d-17492acae392.png'> -->
+<img src='https://user-images.githubusercontent.com/65015373/224038158-8c8de0b7-3be4-4522-8348-cfc1bc4e99ae.png'>
 <br>
 <hr>
 <h2>About it</h2>
