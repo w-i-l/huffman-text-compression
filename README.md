@@ -13,13 +13,13 @@
 
 <p>It has an CLI using an intuitive menu:</p>
 <ul>
-    <li><b>Read from file</b> reads the data from a file</li>
-    <li><b>Encode data</b> generates the Huffman encoding of the data</li>
-    <li><b>Write data</b> writes the input file encoded</li>
-    <li><b>Decode data</b> writes the input file decoded</li>
-    <li><b>Display data</b> shows how the symbols were encoded</li>
-    <li><b>Display entropy</b> shows the Shannon entropy along with the current encode entropy</li>
-    <li><b>Test the files</b> compares two given files and shows the content differences</li>
+    <li><b>Read from file</b> - reads the data from a file</li>
+    <li><b>Encode data</b> - generates the Huffman encoding of the data</li>
+    <li><b>Write data</b> - writes the input file encoded</li>
+    <li><b>Decode data</b> - writes the input file decoded</li>
+    <li><b>Display data</b> - shows how the symbols were encoded</li>
+    <li><b>Display entropy</b> - shows the Shannon entropy along with the current encode entropy</li>
+    <li><b>Test the files</b> - compares two given files and shows the content differences</li>
 </ul>
 
 <p>To <b>encode</b> a file you would read from a file, encode the data and then write to another file.</p>
